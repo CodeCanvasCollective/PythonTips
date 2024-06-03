@@ -12,3 +12,5 @@ print('\n')
 print('### Using enumerate ###')
 for i, value in enumerate(sequence):
     print(i, value)
+
+print('\n')
